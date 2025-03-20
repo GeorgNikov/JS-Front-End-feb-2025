@@ -4,7 +4,6 @@ function solve() {
 
     let result;
 
-
     if (convert === 'binary') {
         result = parseInt(input).toString(2); // Convert to binary
     } else if (convert === 'hexadecimal') {
